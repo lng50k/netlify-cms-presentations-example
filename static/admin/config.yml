@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: lng50k/reveal-md-netlify-cms
+  repo: lng50k/netlify-cms-presentations-example
   branch: master
 
 media_folder: "static/assets/uploads/"
