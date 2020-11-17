@@ -12,6 +12,7 @@ collections:
     folder: presentations
     slug: "{{slug}}"
     create: true
+    extension: html
     fields:
       - {label: Title, name: title, widget: string, tagname: ""}
 
